@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write the IceCreamOrder class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10750#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 10 May 2022 19:43:35 UTC
+record: -1

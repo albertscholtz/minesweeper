@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Minesweeper.Minesweeper-task-build-classes-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-reports-tests.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-test-results.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-tmp.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-out.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task.main" target="11" />
+      <module name="Minesweeper.Topics-Companion_object-A_good_companion.main" target="11" />
+      <module name="Minesweeper.Topics-Companion_object-Companion.main" target="11" />
+      <module name="Minesweeper.Topics-Companion_object-Fix_an_error.main" target="11" />
+      <module name="Minesweeper.Topics-Companion_object-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Companion_object-Usage.main" target="11" />
+      <module name="Minesweeper.Topics-Enum-Currency_comparison.main" target="11" />
+      <module name="Minesweeper.Topics-Enum-The_rainbow_order.main" target="11" />
+      <module name="Minesweeper.Topics-Enum-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Enum-valueOf___method.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Busy_internship.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Christmas_tree.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Clothing_problem.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Heroes_and_villains.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Why_do_we_need_inner_classes.main" target="11" />
+      <module name="Minesweeper.Topics-Object_declarations-Blocks_in_a_box.main" target="11" />
+      <module name="Minesweeper.Topics-Object_declarations-Library.main" target="11" />
+      <module name="Minesweeper.Topics-Object_declarations-Manager.main" target="11" />
+      <module name="Minesweeper.Topics-Object_declarations-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
+      <module name="Minesweeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Minesweeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Roll_the_dice.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Temperature_generator.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Barista_problem.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Fabric_manufacture.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Frozen_desserts.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Spot_the_error.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Declarations.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Statements.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-val_or_var.main" target="11" />
+      <module name="Minesweeper.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
